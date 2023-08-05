@@ -3,3 +3,5 @@
 2. 1-listit: A shell script that displays the contents list of your current directory.
 
 3. 2-bring_me_home: A script that changes the working directory to the user’s home directory. You are not allowed to use any shell variables
+
+4. 3-listfiles: A script that displays directory contents in a long format
